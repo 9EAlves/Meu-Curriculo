@@ -1,0 +1,325 @@
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Eduardo 02\MeuCurriculo\bin\Debug\MeuCurriculo.exe.config
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Eduardo 02\MeuCurriculo\bin\Debug\MeuCurriculo.exe
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Eduardo 02\MeuCurriculo\bin\Debug\MeuCurriculo.pdb
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Eduardo 02\MeuCurriculo\obj\Debug\MeuCurriculo.csprojAssemblyReference.cache
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Eduardo 02\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCandidato.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Eduardo 02\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCurriculo.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Eduardo 02\MeuCurriculo\obj\Debug\MeuCurriculo.FLogin.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Eduardo 02\MeuCurriculo\obj\Debug\MeuCurriculo.FRecrutador.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Eduardo 02\MeuCurriculo\obj\Debug\MeuCurriculo.Properties.Resources.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Eduardo 02\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.GenerateResource.cache
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Eduardo 02\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Eduardo 02\MeuCurriculo\obj\Debug\MeuCurriculo.exe
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Eduardo 02\MeuCurriculo\obj\Debug\MeuCurriculo.pdb
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\bin\Debug\MeuCurriculo.exe.config
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\bin\Debug\MeuCurriculo.exe
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\bin\Debug\MeuCurriculo.pdb
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\bin\Debug\MySql.Data.dll
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\bin\Debug\Google.Protobuf.dll
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\bin\Debug\MySql.Data.xml
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\obj\Debug\MeuCurriculo.csprojAssemblyReference.cache
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCandidato.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCurriculo.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\obj\Debug\MeuCurriculo.FLogin.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\obj\Debug\MeuCurriculo.FRecrutador.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\obj\Debug\MeuCurriculo.Properties.Resources.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.GenerateResource.cache
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CopyComplete
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\obj\Debug\MeuCurriculo.exe
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\obj\Debug\MeuCurriculo.pdb
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\obj\Debug\MeuCurriculo.csprojAssemblyReference.cache
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCandidato.resources
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCurriculo.resources
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\obj\Debug\MeuCurriculo.FLogin.resources
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\obj\Debug\MeuCurriculo.FRecrutador.resources
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\obj\Debug\MeuCurriculo.Properties.Resources.resources
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.GenerateResource.cache
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\obj\Debug\MeuCurriculo.exe
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\obj\Debug\MeuCurriculo.pdb
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\bin\Debug\MeuCurriculo.exe.config
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\bin\Debug\MeuCurriculo.exe
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\bin\Debug\MeuCurriculo.pdb
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\bin\Debug\Google.Protobuf.dll
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\bin\Debug\MySql.Data.xml
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 03 - 4 telas concluídas\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CopyComplete
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 04 - Eberson e Eduardo\MeuCurriculo\bin\Debug\MeuCurriculo.exe.config
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 04 - Eberson e Eduardo\MeuCurriculo\bin\Debug\MeuCurriculo.exe
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 04 - Eberson e Eduardo\MeuCurriculo\bin\Debug\MeuCurriculo.pdb
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 04 - Eberson e Eduardo\MeuCurriculo\bin\Debug\Google.Protobuf.dll
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 04 - Eberson e Eduardo\MeuCurriculo\bin\Debug\MySql.Data.xml
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 04 - Eberson e Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.csprojAssemblyReference.cache
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 04 - Eberson e Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCandidato.resources
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 04 - Eberson e Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCurriculo.resources
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 04 - Eberson e Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.FLogin.resources
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 04 - Eberson e Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.FRecrutador.resources
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 04 - Eberson e Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.Properties.Resources.resources
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 04 - Eberson e Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.GenerateResource.cache
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 04 - Eberson e Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 04 - Eberson e Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CopyComplete
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 04 - Eberson e Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.exe
+C:\Users\TI\Desktop\MeuCurriculo - Gabriel 04 - Eberson e Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.pdb
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 05 Eduardo - Placeholders\MeuCurriculo\bin\Debug\MeuCurriculo.exe.config
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 05 Eduardo - Placeholders\MeuCurriculo\bin\Debug\MeuCurriculo.exe
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 05 Eduardo - Placeholders\MeuCurriculo\bin\Debug\MeuCurriculo.pdb
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 05 Eduardo - Placeholders\MeuCurriculo\bin\Debug\MySql.Data.dll
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 05 Eduardo - Placeholders\MeuCurriculo\bin\Debug\Google.Protobuf.dll
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 05 Eduardo - Placeholders\MeuCurriculo\bin\Debug\MySql.Data.xml
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 05 Eduardo - Placeholders\MeuCurriculo\obj\Debug\MeuCurriculo.csprojAssemblyReference.cache
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 05 Eduardo - Placeholders\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCandidato.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 05 Eduardo - Placeholders\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCurriculo.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 05 Eduardo - Placeholders\MeuCurriculo\obj\Debug\MeuCurriculo.FLogin.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 05 Eduardo - Placeholders\MeuCurriculo\obj\Debug\MeuCurriculo.FRecrutador.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 05 Eduardo - Placeholders\MeuCurriculo\obj\Debug\MeuCurriculo.Properties.Resources.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 05 Eduardo - Placeholders\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.GenerateResource.cache
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 05 Eduardo - Placeholders\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 05 Eduardo - Placeholders\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CopyComplete
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 05 Eduardo - Placeholders\MeuCurriculo\obj\Debug\MeuCurriculo.exe
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 05 Eduardo - Placeholders\MeuCurriculo\obj\Debug\MeuCurriculo.pdb
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Tela de cadastro validada\MeuCurriculo\bin\Debug\MeuCurriculo.exe.config
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Tela de cadastro validada\MeuCurriculo\bin\Debug\MeuCurriculo.exe
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Tela de cadastro validada\MeuCurriculo\bin\Debug\MeuCurriculo.pdb
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Tela de cadastro validada\MeuCurriculo\bin\Debug\Google.Protobuf.dll
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Tela de cadastro validada\MeuCurriculo\bin\Debug\MySql.Data.xml
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Tela de cadastro validada\MeuCurriculo\obj\Debug\MeuCurriculo.csprojAssemblyReference.cache
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Tela de cadastro validada\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCandidato.resources
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Tela de cadastro validada\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCurriculo.resources
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Tela de cadastro validada\MeuCurriculo\obj\Debug\MeuCurriculo.FLogin.resources
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Tela de cadastro validada\MeuCurriculo\obj\Debug\MeuCurriculo.FRecrutador.resources
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Tela de cadastro validada\MeuCurriculo\obj\Debug\MeuCurriculo.Properties.Resources.resources
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Tela de cadastro validada\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.GenerateResource.cache
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Tela de cadastro validada\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Tela de cadastro validada\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CopyComplete
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Tela de cadastro validada\MeuCurriculo\obj\Debug\MeuCurriculo.exe
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Tela de cadastro validada\MeuCurriculo\obj\Debug\MeuCurriculo.pdb
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel\MeuCurriculo\bin\Debug\MeuCurriculo.exe.config
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel\MeuCurriculo\bin\Debug\MeuCurriculo.exe
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel\MeuCurriculo\bin\Debug\MeuCurriculo.pdb
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel\MeuCurriculo\bin\Debug\MySql.Data.dll
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel\MeuCurriculo\bin\Debug\Google.Protobuf.dll
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel\MeuCurriculo\bin\Debug\MySql.Data.xml
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel\MeuCurriculo\obj\Debug\MeuCurriculo.csprojAssemblyReference.cache
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCandidato.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCurriculo.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel\MeuCurriculo\obj\Debug\MeuCurriculo.FLogin.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel\MeuCurriculo\obj\Debug\MeuCurriculo.FRecrutador.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel\MeuCurriculo\obj\Debug\MeuCurriculo.Properties.Resources.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.GenerateResource.cache
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CopyComplete
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel\MeuCurriculo\obj\Debug\MeuCurriculo.exe
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel\MeuCurriculo\obj\Debug\MeuCurriculo.pdb
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 08 Gabriel - Copia\MeuCurriculo\bin\Debug\MeuCurriculo.exe.config
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 08 Gabriel - Copia\MeuCurriculo\bin\Debug\MeuCurriculo.exe
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 08 Gabriel - Copia\MeuCurriculo\bin\Debug\MeuCurriculo.pdb
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 08 Gabriel - Copia\MeuCurriculo\bin\Debug\MySql.Data.dll
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 08 Gabriel - Copia\MeuCurriculo\bin\Debug\Google.Protobuf.dll
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 08 Gabriel - Copia\MeuCurriculo\bin\Debug\MySql.Data.xml
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 08 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.csprojAssemblyReference.cache
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 08 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCandidato.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 08 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCurriculo.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 08 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.FLogin.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 08 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.FRecrutador.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 08 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.Properties.Resources.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 08 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.GenerateResource.cache
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 08 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 08 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CopyComplete
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 08 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.exe
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 08 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.pdb
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\bin\Debug\MeuCurriculo.exe.config
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\bin\Debug\MeuCurriculo.exe
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\bin\Debug\MeuCurriculo.pdb
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\bin\Debug\Google.Protobuf.dll
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\bin\Debug\MySql.Data.xml
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.csprojAssemblyReference.cache
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCandidato.resources
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCurriculo.resources
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.FLogin.resources
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.FRecrutador.resources
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.Properties.Resources.resources
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.GenerateResource.cache
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CopyComplete
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.exe
+C:\Users\TI\Desktop\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.pdb
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\bin\Debug\MeuCurriculo.exe.config
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\bin\Debug\MeuCurriculo.exe
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\bin\Debug\MeuCurriculo.pdb
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\bin\Debug\MySql.Data.dll
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\bin\Debug\Google.Protobuf.dll
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\bin\Debug\MySql.Data.xml
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.csprojAssemblyReference.cache
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCandidato.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCurriculo.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.FLogin.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.FRecrutador.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.Properties.Resources.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.GenerateResource.cache
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CopyComplete
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.exe
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 07 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.pdb
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 08 Gabriel - Copia\MeuCurriculo\bin\Debug\itextsharp.dll
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 08 Gabriel - Copia\MeuCurriculo\bin\Debug\itextsharp.xml
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 09 Gabriel - Copia\MeuCurriculo\bin\Debug\MeuCurriculo.exe.config
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 09 Gabriel - Copia\MeuCurriculo\bin\Debug\MeuCurriculo.exe
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 09 Gabriel - Copia\MeuCurriculo\bin\Debug\MeuCurriculo.pdb
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 09 Gabriel - Copia\MeuCurriculo\bin\Debug\itextsharp.dll
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 09 Gabriel - Copia\MeuCurriculo\bin\Debug\MySql.Data.dll
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 09 Gabriel - Copia\MeuCurriculo\bin\Debug\Google.Protobuf.dll
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 09 Gabriel - Copia\MeuCurriculo\bin\Debug\itextsharp.xml
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 09 Gabriel - Copia\MeuCurriculo\bin\Debug\MySql.Data.xml
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 09 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.csprojAssemblyReference.cache
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 09 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCandidato.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 09 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCurriculo.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 09 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.FLogin.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 09 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.FRecrutador.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 09 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.Properties.Resources.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 09 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.GenerateResource.cache
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 09 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 09 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CopyComplete
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 09 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.exe
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 09 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.pdb
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.csprojAssemblyReference.cache
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCandidato.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCurriculo.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.FLogin.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.FRecrutador.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.Properties.Resources.resources
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.GenerateResource.cache
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.exe
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.pdb
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\bin\Debug\MeuCurriculo.exe.config
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\bin\Debug\MeuCurriculo.exe
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\bin\Debug\MeuCurriculo.pdb
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\bin\Debug\itextsharp.dll
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\bin\Debug\MySql.Data.dll
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\bin\Debug\Google.Protobuf.dll
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\bin\Debug\itextsharp.xml
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\bin\Debug\MySql.Data.xml
+C:\Users\gabri\Documents\TCC - Etec\C#\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CopyComplete
+C:\Users\TI\Desktop\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\bin\Debug\MeuCurriculo.exe.config
+C:\Users\TI\Desktop\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\bin\Debug\MeuCurriculo.exe
+C:\Users\TI\Desktop\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\bin\Debug\MeuCurriculo.pdb
+C:\Users\TI\Desktop\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\bin\Debug\itextsharp.dll
+C:\Users\TI\Desktop\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\bin\Debug\Google.Protobuf.dll
+C:\Users\TI\Desktop\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\bin\Debug\itextsharp.xml
+C:\Users\TI\Desktop\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\bin\Debug\MySql.Data.xml
+C:\Users\TI\Desktop\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.csprojAssemblyReference.cache
+C:\Users\TI\Desktop\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCandidato.resources
+C:\Users\TI\Desktop\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCurriculo.resources
+C:\Users\TI\Desktop\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.FLogin.resources
+C:\Users\TI\Desktop\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.FRecrutador.resources
+C:\Users\TI\Desktop\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.Properties.Resources.resources
+C:\Users\TI\Desktop\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.GenerateResource.cache
+C:\Users\TI\Desktop\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CopyComplete
+C:\Users\TI\Desktop\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.exe
+C:\Users\TI\Desktop\MeuCurriculo - 10 Gabriel - Copia\MeuCurriculo\obj\Debug\MeuCurriculo.pdb
+C:\Users\TI\Desktop\Nova pasta\MeuCurriculo\bin\Debug\MeuCurriculo.exe.config
+C:\Users\TI\Desktop\Nova pasta\MeuCurriculo\bin\Debug\MeuCurriculo.exe
+C:\Users\TI\Desktop\Nova pasta\MeuCurriculo\bin\Debug\MeuCurriculo.pdb
+C:\Users\TI\Desktop\Nova pasta\MeuCurriculo\bin\Debug\itextsharp.dll
+C:\Users\TI\Desktop\Nova pasta\MeuCurriculo\bin\Debug\Google.Protobuf.dll
+C:\Users\TI\Desktop\Nova pasta\MeuCurriculo\bin\Debug\itextsharp.xml
+C:\Users\TI\Desktop\Nova pasta\MeuCurriculo\bin\Debug\MySql.Data.xml
+C:\Users\TI\Desktop\Nova pasta\MeuCurriculo\obj\Debug\MeuCurriculo.csprojAssemblyReference.cache
+C:\Users\TI\Desktop\Nova pasta\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCandidato.resources
+C:\Users\TI\Desktop\Nova pasta\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCurriculo.resources
+C:\Users\TI\Desktop\Nova pasta\MeuCurriculo\obj\Debug\MeuCurriculo.FLogin.resources
+C:\Users\TI\Desktop\Nova pasta\MeuCurriculo\obj\Debug\MeuCurriculo.FRecrutador.resources
+C:\Users\TI\Desktop\Nova pasta\MeuCurriculo\obj\Debug\MeuCurriculo.Properties.Resources.resources
+C:\Users\TI\Desktop\Nova pasta\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.GenerateResource.cache
+C:\Users\TI\Desktop\Nova pasta\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\Nova pasta\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CopyComplete
+C:\Users\TI\Desktop\Nova pasta\MeuCurriculo\obj\Debug\MeuCurriculo.exe
+C:\Users\TI\Desktop\Nova pasta\MeuCurriculo\obj\Debug\MeuCurriculo.pdb
+C:\Users\TI\Desktop\Nova pasta\MeuCurriculo\obj\Debug\MeuCurriculo.FMenu.resources
+C:\Users\gabri\Desktop\MeuCurriculo- Eduardo 1106\MeuCurriculo\bin\Debug\MeuCurriculo.exe.config
+C:\Users\gabri\Desktop\MeuCurriculo- Eduardo 1106\MeuCurriculo\bin\Debug\MeuCurriculo.exe
+C:\Users\gabri\Desktop\MeuCurriculo- Eduardo 1106\MeuCurriculo\bin\Debug\MeuCurriculo.pdb
+C:\Users\gabri\Desktop\MeuCurriculo- Eduardo 1106\MeuCurriculo\bin\Debug\itextsharp.dll
+C:\Users\gabri\Desktop\MeuCurriculo- Eduardo 1106\MeuCurriculo\bin\Debug\MySql.Data.dll
+C:\Users\gabri\Desktop\MeuCurriculo- Eduardo 1106\MeuCurriculo\bin\Debug\Google.Protobuf.dll
+C:\Users\gabri\Desktop\MeuCurriculo- Eduardo 1106\MeuCurriculo\bin\Debug\itextsharp.xml
+C:\Users\gabri\Desktop\MeuCurriculo- Eduardo 1106\MeuCurriculo\bin\Debug\MySql.Data.xml
+C:\Users\gabri\Desktop\MeuCurriculo- Eduardo 1106\MeuCurriculo\obj\Debug\MeuCurriculo.csprojAssemblyReference.cache
+C:\Users\gabri\Desktop\MeuCurriculo- Eduardo 1106\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCandidato.resources
+C:\Users\gabri\Desktop\MeuCurriculo- Eduardo 1106\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCurriculo.resources
+C:\Users\gabri\Desktop\MeuCurriculo- Eduardo 1106\MeuCurriculo\obj\Debug\MeuCurriculo.FLogin.resources
+C:\Users\gabri\Desktop\MeuCurriculo- Eduardo 1106\MeuCurriculo\obj\Debug\MeuCurriculo.FMenu.resources
+C:\Users\gabri\Desktop\MeuCurriculo- Eduardo 1106\MeuCurriculo\obj\Debug\MeuCurriculo.FRecrutador.resources
+C:\Users\gabri\Desktop\MeuCurriculo- Eduardo 1106\MeuCurriculo\obj\Debug\MeuCurriculo.Properties.Resources.resources
+C:\Users\gabri\Desktop\MeuCurriculo- Eduardo 1106\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\MeuCurriculo- Eduardo 1106\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\MeuCurriculo- Eduardo 1106\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CopyComplete
+C:\Users\gabri\Desktop\MeuCurriculo- Eduardo 1106\MeuCurriculo\obj\Debug\MeuCurriculo.exe
+C:\Users\gabri\Desktop\MeuCurriculo- Eduardo 1106\MeuCurriculo\obj\Debug\MeuCurriculo.pdb
+C:\Users\gabri\Desktop\MeuCurriculo- Eduardo 1106\MeuCurriculo\bin\Debug\Correios.dll
+C:\Users\gabri\Desktop\MeuCurriculo- Eduardo 1106\MeuCurriculo\bin\Debug\Correios.pdb
+C:\Users\gabri\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\MeuCurriculo.exe.config
+C:\Users\gabri\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\MeuCurriculo.exe
+C:\Users\gabri\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\MeuCurriculo.pdb
+C:\Users\gabri\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\Correios.dll
+C:\Users\gabri\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\itextsharp.dll
+C:\Users\gabri\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\MySql.Data.dll
+C:\Users\gabri\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\Google.Protobuf.dll
+C:\Users\gabri\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\Correios.pdb
+C:\Users\gabri\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\itextsharp.xml
+C:\Users\gabri\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\MySql.Data.xml
+C:\Users\gabri\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.csprojAssemblyReference.cache
+C:\Users\gabri\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCandidato.resources
+C:\Users\gabri\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCurriculo.resources
+C:\Users\gabri\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.FLogin.resources
+C:\Users\gabri\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.FMenu.resources
+C:\Users\gabri\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.FRecrutador.resources
+C:\Users\gabri\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.Properties.Resources.resources
+C:\Users\gabri\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CopyComplete
+C:\Users\gabri\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.exe
+C:\Users\gabri\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.pdb
+F:\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.csprojAssemblyReference.cache
+F:\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCandidato.resources
+F:\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCurriculo.resources
+F:\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.FLogin.resources
+F:\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.FMenu.resources
+F:\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.FRecrutador.resources
+F:\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.Properties.Resources.resources
+F:\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.GenerateResource.cache
+F:\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CoreCompileInputs.cache
+F:\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.exe
+F:\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.pdb
+F:\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\MeuCurriculo.exe.config
+F:\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\MeuCurriculo.exe
+F:\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\MeuCurriculo.pdb
+F:\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\Correios.dll
+F:\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\itextsharp.dll
+F:\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\Google.Protobuf.dll
+F:\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\Correios.pdb
+F:\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\itextsharp.xml
+F:\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\MySql.Data.xml
+F:\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CopyComplete
+C:\Users\TI\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\MeuCurriculo.exe.config
+C:\Users\TI\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\MeuCurriculo.exe
+C:\Users\TI\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\MeuCurriculo.pdb
+C:\Users\TI\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\Correios.dll
+C:\Users\TI\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\itextsharp.dll
+C:\Users\TI\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\Google.Protobuf.dll
+C:\Users\TI\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\Correios.pdb
+C:\Users\TI\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\itextsharp.xml
+C:\Users\TI\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\bin\Debug\MySql.Data.xml
+C:\Users\TI\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.csprojAssemblyReference.cache
+C:\Users\TI\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCandidato.resources
+C:\Users\TI\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.FCadastroCurriculo.resources
+C:\Users\TI\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.FLogin.resources
+C:\Users\TI\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.FMenu.resources
+C:\Users\TI\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.FRecrutador.resources
+C:\Users\TI\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.Properties.Resources.resources
+C:\Users\TI\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.GenerateResource.cache
+C:\Users\TI\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CoreCompileInputs.cache
+C:\Users\TI\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.csproj.CopyComplete
+C:\Users\TI\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.exe
+C:\Users\TI\Desktop\MeuCurriculo - 11 Eduardo\MeuCurriculo\obj\Debug\MeuCurriculo.pdb
